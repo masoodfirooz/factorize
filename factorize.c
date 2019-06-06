@@ -1,7 +1,7 @@
 //  factorize.c
 //  The code was written in the purpose of efficiency. So it does not comply with all software engineering criteria.
 //  The code is Unix friendly. If the executable file is named factorize, it might be used like: factorize 54 9 23
-//  Created by Masood Firoozabadi on 5/8/15.
+//  Created by Sina Firoozabadi on 5/8/15.
 //
 #include <stdio.h>
 #include <stdlib.h>
